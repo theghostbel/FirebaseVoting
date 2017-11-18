@@ -1,7 +1,6 @@
 import React, { Component } from 'react';
 import FireProp from './fire-prop';
 import FireCtrl from './fire-ctrl';
-import FireFac from './fire-fac';
 import FireVote from './fire-vote';
 
 
